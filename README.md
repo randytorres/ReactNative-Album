@@ -1,1 +1,1 @@
-# ReactNative-AlbumTestApp
+# ReactNative-Album
